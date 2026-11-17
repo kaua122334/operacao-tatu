@@ -1,0 +1,13 @@
+OPERAÇÃO TATU - GERAR APK (Android)
+
+1. Crie uma conta gratuita em github.com e um repositório novo (pode ser privado).
+2. Envie TODO o conteúdo desta pasta para o repositório (Add file > Upload files),
+   incluindo a pasta .github. Se ela não subir, crie o arquivo
+   .github/workflows/apk.yml (Add file > Create new file) e cole o conteúdo do apk.yml.
+3. Se já configurou o ranking online, abra www/index.html e cole o endereço em RANK_URL antes.
+4. Vá na aba "Actions" > "Gerar APK" > "Run workflow". Leva uns 5 a 10 minutos.
+5. Abra a execução concluída, baixe "operacao-tatu-apk" (um .zip com app-debug.apk).
+6. Passe o app-debug.apk para o celular e instale (permita "instalar apps desconhecidos").
+
+Esse APK é para instalar direto no celular. Para a Play Store é preciso outro tipo
+de pacote assinado (AAB) e conta de desenvolvedor.

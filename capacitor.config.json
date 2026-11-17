@@ -1,0 +1,6 @@
+{
+  "appId": "com.operacaotatu.game",
+  "appName": "Operação Tatu",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
